@@ -1,14 +1,12 @@
 # envconfig
 
-[![Build Status](https://travis-ci.org/kelseyhightower/envconfig.svg)](https://travis-ci.org/kelseyhightower/envconfig)
-
 ```Go
-import "github.com/kelseyhightower/envconfig"
+import "github.com/davidterranova/envconfig"
 ```
 
 ## Documentation
 
-See [godoc](http://godoc.org/github.com/kelseyhightower/envconfig)
+See [godoc](http://godoc.org/github.com/davidterranova/envconfig)
 
 ## Usage
 
@@ -34,7 +32,7 @@ import (
     "log"
     "time"
 
-    "github.com/kelseyhightower/envconfig"
+    "github.com/davidterranova/envconfig"
 )
 
 type Specification struct {
